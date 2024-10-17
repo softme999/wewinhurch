@@ -1,0 +1,1026 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+header{
+    height: 50vh;
+    width: 100%;
+    
+    
+
+
+}
+header .logo{
+    background-color: rgb(2, 2, 27);
+    height: 40vh;
+    width: 100%;
+}
+header .logo img{
+    height: 20vh;
+    width: 10vw;
+    border-radius: 40vh;
+    margin-left: 46%;
+    margin-top: 8vh;
+    margin-bottom: 6vh;
+}
+header .nav-bar{
+    height: 30vh;
+    width: 100%;
+    background-color: rgb(2, 2, 27);
+}
+header .nav-bar ul{
+   padding-left: 30%;
+    padding-top: 5vh;
+    font-size: 4vh;
+    display: flex;
+    gap: 2vw;
+}
+header .nav-bar ul a{
+    text-align: center;
+    color: white;
+}
+.slide{
+    margin-top: 15vh;
+    height: 70vh;
+    width: 100%;
+}
+.slide img{
+    height: 80vh;
+    width: 100%;
+}
+.level{
+    margin-top:4vh ;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.level .pag{
+    height: 50vh;
+    width: 25vw;
+    margin-top: 8vh;
+    text-align: center;
+    border: 1px solid black;
+}
+.level .pag .a1{
+    border: 1px solid black;
+    background-color: rgb(58, 5, 5);
+    color: white;
+}
+.level .pag .a2{
+    background-color: rgb(1, 1, 32);
+    height: 37vh;
+}
+.level2{
+    height: 70vh;
+    width: 100%;
+    background-color:  rgb(1, 1, 32);;
+    border: 1px solid black;
+}
+.level2 .pag1 h1{
+    text-align: center;
+    padding-top: 10vh;
+    color: white;
+}
+.level2 .pag2{
+    display: flex;
+    justify-content: space-around;
+}
+.level2 .pag2 .b1{
+
+    color: white;
+    /* border: 1px solid black; */
+    margin-top: 20vh;
+    height: 20vh;
+    width: 26vw;
+    display: flex;
+    gap: 2vw;
+}
+.level2 .pag2 h2{
+font-size: 4vh;
+padding-top: 4vh;
+text-align: center;
+}
+.level2 .pag2 .c1 img{
+    height: 14vh;
+    width: 8vw;
+    border-radius: 10vh;
+}
+.level3{
+    height: 60vh;
+    width: 100%;
+    margin-top: 25vh;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+.level3 .pag3{
+    border: 1px solid black;
+    height: 50vh;
+}
+.level3 .pag3 .a1{
+    border: 1px solid black;
+    background-color: rgb(58, 5, 5);
+    color: white;
+    padding-top: 4vh;
+}
+.level3 .pag3 .a2{
+    height: 37vh;
+    color: white;
+    background-color:  rgb(1, 1, 32);;
+}
+.level4{
+height: 70vh;
+width: 100%;
+margin-bottom: 30vh;
+text-align: center;
+background-color:  rgb(1, 1, 32);
+}
+.level4 .logo img{
+    height: 25vh;
+    width: 13vw;
+    border-radius: 40vh;
+    margin-top: 8vh;
+    margin-bottom: 6vh;
+
+}
+
+
+/* ...................................................................................end */
+/* ........................................................................................ */
+
+.level5 {
+    height: 110vh;
+    width: 100%;
+    margin-top: 30vh;
+    text-align: center;
+    border: 1px solid black;
+}
+.level5 .pag5{
+    height: 60vh;
+    width: 100%;
+    margin-top:5vh;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+.level5 .pag5 .pag4{
+    height: 110vh;
+    width: 30vw;
+    border: 1px solid black;
+}
+.level5 .pag5 .pag4 img{
+    height: 40vh;
+    width: 30vw;
+}
+.level5 h1{
+    font-size: 12vh;
+}
+.level5 h2{
+    padding-top: 2vh;
+    
+}
+.level5 .a2{
+    border: 1px solid black;
+    background-color: rgb(2, 2, 27);
+    color: white;
+    height: 60vh;
+    width: 30vw;
+   
+}
+
+.level6 {
+    height: 65vh;
+    width: 100%;
+    margin-top: 20vh;
+    border: 1px solid black;
+}
+.level6 .bb{
+    height: 50vh;
+    width: 70%;
+    border:1px solid black ;
+    margin-top: 10vh;
+    margin-left: 17vw;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.level6 .bb .pag5{
+    width: 70%;
+    height: 50vh;
+    padding-top: 13vh;
+    padding-left: 2vw;
+    border: 1px solid black;
+    background-color: rgb(2, 2, 27);
+    color: white;
+}
+.level6 .bb .pag6{
+    width: 30%;
+    height: 50vh;
+    border: 1px solid black;
+    padding-left: 4vw;
+    padding-top: 13vh;
+    background-color: rgb(58, 5, 5);
+    color: white;
+}
+.level7{
+    height: 70vh;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10vh;
+    background-color:  rgb(1, 1, 32);
+    border: 1px solid black;
+    }
+    .level7 .logo img{
+        height: 25vh;
+        width: 13vw;
+        border-radius: 40vh;
+        margin-top: 8vh;
+        margin-bottom: 10vh;
+    
+    }
+    /* .........................................................................ends */
+    /* .................................................................................... */
+
+    .level8{
+        height: 130vh;
+        width: 100%;
+        margin-top: 40vh;
+        border: 1px solid black;
+
+    }
+    .level8 h1{
+        padding-left: 10vw;
+        padding-bottom: 10vh;
+        font-size: 12vh;
+    }
+    .level8 h2{
+        text-align: center;
+    }
+    .level8 .pag6{
+        height: 90vh;
+        width: 90%;
+        display: flex;
+        margin-left: 5vw;
+        justify-content: space-around;
+        border: 1px solid black;
+    }
+    .level8 .pag6 img{
+        height: 100vh;
+        width: 45vw;
+    }
+    .level9{
+        height: 100vh;
+        width: 100%;
+        border: 1px solid black;
+        background-color: rgb(23, 23, 171);
+    color: white;
+    }
+    .level9 h1{
+        padding-top: 15vh;
+        font-size: 11vh;
+        text-align: center;
+    }
+    .level9 h2{
+        text-align: center;
+    }
+    .level9 .c2{
+        border: 1px solid white;
+        margin-top: 13vh;
+        height: 40vh;
+        width: 30vw;
+    }
+    .level9 .pag7{
+        display: flex;
+        justify-content: space-around;
+    }
+    .level10{
+        height: 70vh;
+        width: 100%;
+        text-align: center;
+        padding-bottom: 10vh;
+        margin-top: 8vh;
+        background-color:  rgb(1, 1, 32);
+        border: 1px solid black;
+        }
+        .level10 .logo img{
+            height: 25vh;
+            width: 13vw;
+            border-radius: 40vh;
+            margin-top: 8vh;
+            margin-bottom: 10vh;
+        
+        }
+        /* ......................................................................ends */
+        /* ........................................................................... */
+
+        .level11{
+            height: 100vh;
+            width: 100%;
+            border: 1px solid black;
+            margin-top: 30vh;
+        }
+        .level11 .pag9{
+            height: 70vh;
+            width: 100;
+            display: flex;
+            margin-top: 12vh;
+            text-align: center;
+            justify-content: space-around;
+            border: 1px solid black;
+        }.level11 .pag9 img{
+            height: 50vh;
+            width: 20vw;
+        }
+        .level11 .p10 h1{ 
+            text-align: center;
+            font-size: 10vh;
+        }
+        .level11 .pag9 .pag8{
+            height: 70vh;
+            width: 25vw;
+
+            border: 1px solid black;
+        }
+        .level11 .pag9 .pag8 .a2{
+            border: 1px solid black;
+            width: 20vw;
+            height: 22vh;
+            margin-left: 2.3vw;
+            background-color: rgb(2, 2, 27);
+            color: white;
+
+        }
+        .level11 .pag9 .pag8 .a2 p {
+            padding-top: 3vh;
+        }
+        .level11 .pag9 .pag8 .a1{
+            height: 50vh;
+
+        } 
+        .level12{
+            height: 156vh;
+            width: 100%;
+            margin-top: 10vh;
+            border: 1px solid black;
+            background-color: rgb(2, 2, 27);
+            color: white;
+
+
+        }
+        .level12 .writeup h1{
+            padding-top: 10vh;
+            padding-bottom: 10vh;
+            font-size: 10vh;
+            text-align: center;
+        }
+        .level12 .general {
+            height: 90vh;
+            width: 90%;
+            display: flex;
+            margin-left: 5vw;
+            justify-content: space-around;
+            border: 1px solid black;
+        }
+        .level12 .general img{
+            height: 110vh;
+            width: 40vw;
+        }
+        .level13{
+            height: 70vh;
+            width: 100%;
+            text-align: center;
+            padding-bottom: 10vh;
+            margin-top: 2vh;
+            background-color:  rgb(1, 1, 32);
+            border: 1px solid black;
+            }
+            .level13 .logo img{
+                height: 25vh;
+                width: 13vw;
+                border-radius: 40vh;
+                margin-top: 8vh;
+                margin-bottom: 10vh;
+            
+            }
+            /* .........................................................................end */
+            /* ............................................................................. */
+
+            .level14{
+                height: 140vh;
+                width: 100%;
+                margin-top: 24vh;
+                background-color:  rgb(1, 1, 32);
+                color: white;
+              
+            }
+            .level14 h2{
+                text-align: center;
+                font-size: 10vh;
+                padding-top: 5vh;
+            }
+            .contact-form form{
+                 display: flex;
+                 width: 90%;
+                 height: 60vh;
+                 margin-top: 10vh;
+                 margin-left: 5vw;
+                color:  rgb(1, 1, 32);;
+                 justify-content: space-around;
+                 background-color: white;
+            }
+            .contact-form form .fill{
+                padding-top: 15vh;
+            }
+            .contact-form form input{
+                height: 5vh;
+                width: 22vw;
+                margin-top: 1vh;
+                margin-bottom: 3vh;
+                background-color:  rgb(1, 1, 32);
+
+            }
+            .contact-form form .message {
+                margin-top: 15vh;
+                
+            }
+            .contact-form form .message textarea{
+                height: 33vh;
+                width: 20vw;
+                color: white;
+                background-color:  rgb(1, 1, 32);
+            }
+            .contact-form form .message button{
+                height: 5vh;
+                width: 20vw;
+                color: white;
+                background-color:  rgb(1, 1, 32);
+
+            }
+            .level14 h3{
+                padding-left: 10vw;
+                padding-top: 10vh;
+
+            }
+            .level15{
+                height: 70vh;
+                width: 100%;
+                text-align: center;
+                padding-bottom: 10vh;
+                margin-top: 15vh;
+                background-color:  rgb(1, 1, 32);
+                border: 1px solid black;
+                }
+                .level15 .logo img{
+                    height: 25vh;
+                    width: 13vw;
+                    border-radius: 40vh;
+                    margin-top: 8vh;
+                    margin-bottom: 10vh;
+                
+                }
+                /* .................................................................................... */
+                /* ......................................................................................ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                /* ....................................................................................... */
+                /* ......................................@media screen................................... */
+                @media screen and (max-width: 768px) {
+                    header{
+                        height: 45vh;
+                        width: 100%;
+                        border: 1px solid pink;
+                        
+                    
+                    
+                    }
+
+                    header .logo{
+                        background-color: rgb(2, 2, 27);
+                        height: 40vh;
+                        width: 100%;
+                    }
+                    header .logo img{
+                        height: 30vh;
+                        width: 40vw;
+                        border-radius: 40vh;
+                        margin-left: 30%;
+                        margin-top: 8vh;
+                        margin-bottom: 6vh;
+                    }
+                    header .nav-bar{
+                        height: 30vh;
+                        width: 100%;
+                        background-color: rgb(2, 2, 27);
+                    }
+                    header .nav-bar ul{
+                       padding-left: 9%;
+                        padding-top: 5vh;
+                        font-size: 3vh;
+                        display: flex;
+                        gap: 2vw;
+                    }
+                    header .nav-bar ul a{
+                        text-align: center;
+                        color: white;
+                    }
+                    .slide{
+                        margin-top: 15vh;
+                        height: 63vh;
+                        width: 100%;
+                        border: 1px solid black;
+                    }
+                    .slide img{
+                        height: 60vh;
+                        width: 100%;
+                    }
+                    .level{
+                        margin-top:10vh ;
+                        height: 170vh;
+                        width: 100%;
+                        display: block;
+                        justify-content: space-around;
+                    }
+                    .level .pag{
+                        height: 50vh;
+                        width: 100%;
+                        margin-top: 8vh;
+                        text-align: center;
+                        border: 1px solid black;
+                    }
+                    .level .pag .a1{
+                        border: 1px solid black;
+                        background-color: rgb(58, 5, 5);
+                        color: white;
+                    }
+                    .level .pag .a2{
+                        background-color: rgb(1, 1, 32);
+                        height: 37vh;
+                    }
+                    .level2{
+                        height: 170vh;
+                        width: 100%;
+                        background-color:  rgb(1, 1, 32);;
+                        border: 1px solid black;
+                    }
+                    .level2 .pag1 h1{
+                        text-align: center;
+                        padding-top: 10vh;
+                        color: white;
+                    }
+                    .level2 .pag2{
+                        display: block;
+                        justify-content: space-around;
+                    }
+                    .level2 .pag2 .b1{
+                    
+                        color: white;
+                        /* border: 1px solid black; */
+                        margin-top: 20vh;
+                        height: 20vh;
+                        width: 100%;
+                        display: flex;
+                        gap: 2vw;
+                    }
+                    .level2 .pag2 .b1 .c1{
+                        border: 1px solid white;
+                        width: 50%;
+                        height: 30vh;
+                    }
+                    .level2 .pag2 .b1 .d1{
+                        border: 1px solid white;
+                        width: 50%;
+                        height: 30vh;
+                    }
+                    .level2 .pag2 h2{
+                    font-size: 4vh;
+                    padding-top: 4vh;
+                    text-align: center;
+                    }
+                    .level2 .pag2 .c1 img{
+                        height: 20vh;
+                        width: 30vw;
+                        border-radius: 10vh;
+                        margin-left: 7vw;
+                    }
+                    .level3{
+                        height: 160vh;
+                        width: 100%;
+                        margin-top: 25vh;
+                        display: block;
+                        text-align: center;
+                        justify-content: space-around;
+                        justify-content: space-around;
+                        border: 1px solid black;
+                    }
+                    .level3 .pag3{
+                        border: 1px solid black;
+                        height: 50vh;
+                    }
+                    .level3 .pag3 .a1{
+                        border: 1px solid black;
+                        background-color: rgb(58, 5, 5);
+                        color: white;
+                        padding-top: 4vh;
+                    }
+                    .level3 .pag3 .a2{
+                        height: 37vh;
+                        color: white;
+                        background-color:  rgb(1, 1, 32);;
+                    }
+                    .level4{
+                    height: 70vh;
+                    width: 100%;
+                    margin-bottom: 30vh;
+                    text-align: center;
+                    background-color:  rgb(1, 1, 32);
+                    }
+                    .level4 .logo img{
+                        height: 30vh;
+                        width: 40vw;
+                        border-radius: 40vh;
+                        margin-left: 3%;
+                        margin-top: 8vh;
+                        margin-bottom: 6vh;
+                    
+                    }
+                    /* ..................................................................... */
+                    /* ........................................................................ end*/
+
+                    .level5 {
+                        height: 340vh;
+                        width: 100%;
+                        margin-top: 30vh;
+                        text-align: center;
+                        border: 1px solid black;
+                    }
+                    .level5 .pag5{
+                        height: 120vh;
+                        width: 100%;
+                        margin-top:5vh;
+                        display: block;
+                        justify-content: space-around;
+                        border: 1px solid black;
+                    }
+                    .level5 .pag5 .pag4{
+                        height: 110vh;
+                        width: 100%;
+                        border: 1px solid black;
+                    }
+                    .level5 .pag5 .pag4 img{
+                        height: 40vh;
+                        width: 100%;
+                    }
+                    .level5 h1{
+                        font-size: 12vh;
+                    }
+                    .level5 h2{
+                        padding-top: 2vh;
+                        
+                    }
+                    .level5 .a2{
+                        border: 1px solid black;
+                        background-color: rgb(2, 2, 27);
+                        color: white;
+                        height: 60vh;
+                        width: 100%;
+                       
+                    }
+                    
+                    .level6 {
+                        height: 125vh;
+                        width: 100%;
+                       
+                        border: 1px solid black;
+                    }
+                   .level6 .bb{
+                    height: 120vh;
+                    width: 70%;
+                    border: 1px solid black;
+                    margin-bottom: 0;
+                    display: block;
+
+                   }
+                   .level6 .bb .pag5{
+                    height: 80vh;
+                    width: 100%;
+                   }.level6 .bb .pag6{
+                    list-style: none;
+                    text-decoration: none;
+                    height: 30vh;
+                    width: 100%;
+                   }
+                   .level6 .bb .pag6 h1{
+                    text-align: center;
+                   }
+                    .level7{
+                        height: 80vh;
+                        width: 100%;
+                        text-align: center;
+                        padding-bottom: 10vh;
+                        background-color:  rgb(1, 1, 32);
+                        border: 1px solid black;
+                        }
+                        .level7 .logo img{
+                            height: 30vh;
+                            width: 40vw;
+                            border-radius: 40vh;
+                            margin-top: 8vh;
+                            margin-bottom: 10vh;
+                        
+                        }
+                        /* ................................................................. */
+                        /* .................................................................. */
+
+
+
+
+                        .level8{
+                            height: 330vh;
+                            width: 100%;
+                            margin-top: 40vh;
+                            border: 1px solid black;
+                    
+                        }
+                        .level8 h1{
+                            padding-left: 10vw;
+                            padding-bottom: 10vh;
+                            font-size: 9vh;
+                        }
+                        .level8 h2{
+                            text-align: center;
+                        }
+                        .level8 .pag6{
+                            height: 190vh;
+                            width: 90%;
+                            display: block;
+                            margin-left: 5vw;
+                            justify-content: space-around;
+                            border: 1px solid black;
+                        }
+                        .level8 .pag5{
+                            height: 100vh;
+                            width: 90%;
+                            
+                            border: 1px solid black ;
+                        }
+                        .level8 .pag5 h2{
+                            padding-top: 5vh;
+                        }
+                        .level8 .pag6 img{
+                            height: 100vh;
+                            width: 100%;
+                        }
+                        .level9{
+                            height: 300vh;
+                            width: 100%;
+                            border: 1px solid white;
+                            background-color: rgb(23, 23, 171);
+                        color: white;
+                        }
+                        .level9 h1{
+                            padding-top: 15vh;
+                            font-size: 11vh;
+                            text-align: center;
+                        }
+                        .level9 h2{
+                            text-align: center;
+                        }
+                        .level9 .c2{
+                            border: 1px solid white;
+                            margin-top: 13vh;
+                            height: 40vh;
+                            width: 100%;
+                            padding-left: 3vw;
+                        }
+                        .level9 .pag7{
+                            display: block;
+                           
+                            justify-content: space-around;
+                        }
+                        .level10{
+                            height: 80vh;
+                            width: 100%;
+                            text-align: center;
+                            padding-bottom: 10vh;
+                            margin-top: 8vh;
+                            background-color:  rgb(1, 1, 32);
+                            border: 1px solid black;
+                            }
+                            .level10 .logo img{
+                                height: 30vh;
+                                width: 40vw;
+                                border-radius: 40vh;
+                                margin-top: 8vh;
+                                margin-bottom: 10vh;
+
+                }
+                /* ......................................................................... */
+                /* ........................................................................... */
+                
+                .level11{
+                    height: 340vh;
+                    width: 100%;
+                    border: 1px solid black;
+                    margin-top: 30vh;
+                }
+                .level11 .pag9{
+                    height: 70vh;
+                    width: 100%;
+                    display: block;
+                    margin-top: 12vh;
+                    text-align: center;
+                    justify-content: space-around;
+                    border: 1px solid black;
+                }.level11 .pag9 img{
+                    height: 50vh;
+                    width: 100%;
+                   
+                }
+                .level11 .p10 h1{ 
+                    text-align: center;
+                    font-size: 10vh;
+                    padding-top: 5vh;
+                }
+                .level11 .pag9 .pag8{
+                    height: 70vh;
+                    width: 100%;
+        
+                    border: 1px solid black;
+                }
+                .level11 .pag9 .pag8 .a2{
+                    border: 1px solid black;
+                    width: 90%;
+                    margin-top: 1vh;
+                    
+                    margin-left: 5vw;
+                    height: 22vh;
+                    background-color: rgb(2, 2, 27);
+                    color: white;
+        
+                }
+                .level11 .pag9 .pag8 .a2 p {
+                    padding-top: 3vh;
+                }
+                .level11 .pag9 .pag8 .a1{
+                    height: 50vh;
+        
+                } 
+                .level12{
+                    height: 320vh;
+                    width: 100%;
+                    margin-top: 18vh;
+                    border: 1px solid black;
+                    background-color: rgb(2, 2, 27);
+                    color: white;
+        
+        
+                }
+                .level12 .writeup h1{
+                    padding-top: 20vh;
+                    padding-bottom: 10vh;
+                    font-size: 10vh;
+                    text-align: center;
+                }
+                .level12 .general {
+                    height: 90vh;
+                    width: 90%;
+                    display: block;
+                    margin-left: 5vw;
+                    justify-content: space-around;
+                    border: 1px solid black;
+                }
+                .level12 .general img{
+                    height: 110vh;
+                    width: 100%;
+                }
+                .level13{
+                    height: 80vh;
+                    width: 100%;
+                    text-align: center;
+                    padding-bottom: 10vh;
+                    margin-top: 2vh;
+                    background-color:  rgb(1, 1, 32);
+                    border: 1px solid black;
+                    }
+                    .level13 .logo img{
+                        height: 30vh;
+                        width: 40vw;
+                        border-radius: 40vh;
+                        margin-top: 8vh;
+                        margin-bottom: 10vh;
+                    
+                    }
+                /* ............................................................................ */
+                /* .............................................................................. */
+
+
+                .level14{
+                    height: 147vh;
+                    width: 100%;
+                    margin-top: 24vh;
+                    background-color:  rgb(1, 1, 32);
+                    color: white;
+                    border: 1px solid black;
+                  
+                }
+                .level14 h2{
+                    text-align: center;
+                    font-size: 10vh;
+                    padding-top: 5vh;
+                }
+                .contact-form form{
+                     display: flex;
+                     width: 90%;
+                     height: 60vh;
+                     margin-top: 10vh;
+                     margin-left: 5vw;
+                    color:  rgb(1, 1, 32);;
+                     justify-content: space-around;
+                     background-color: white;
+                }
+                .contact-form form .fill{
+                    padding-top: 15vh;
+                }
+                .contact-form form input{
+                    height: 5vh;
+                    width: 35vw;
+                    margin-top: 1vh;
+                    margin-bottom: 3vh;
+                    background-color:  rgb(1, 1, 32);
+    
+                }
+                .contact-form form .message {
+                    margin-top: 15vh;
+                    
+                }
+                .contact-form form .message textarea{
+                    height: 26vh;
+                    width: 40vw;
+                    color: white;
+                    background-color:  rgb(1, 1, 32);
+                }
+                .contact-form form .message button{
+                    height: 5vh;
+                    width: 40vw;
+                    color: white;
+                    background-color:  rgb(1, 1, 32);
+    
+                }
+                .level14 h3{
+                    padding-left: 10vw;
+                    padding-top: 10vh;
+    
+                }
+                .level15{
+                    height: 80vh;
+                    width: 100%;
+                    text-align: center;
+                    padding-bottom: 10vh;
+                    background-color:  rgb(1, 1, 32);
+                    border: 1px solid black;
+                    }
+                    .level15 .logo img{
+                        height: 30vh;
+                        width: 40vw;
+                        border-radius: 40vh;
+                        margin-top: 8vh;
+                        margin-bottom: 10vh;
+                    
+                    }
+                 
+            }
